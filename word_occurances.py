@@ -12,14 +12,9 @@ for v in d.values():
 
 '''
 sample input
-9
-BANANA FRIES 12
-POTATO CHIPS 30
-APPLE JUICE 10
-CANDY 5
-APPLE JUICE 10
-CANDY 5
-CANDY 5
-CANDY 5
-POTATO CHIPS 30
+4
+bcdef
+abcdefg
+bcde
+bcdef
 '''
